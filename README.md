@@ -52,33 +52,18 @@ This is a static front-end project — no build tools, frameworks, or dependenci
 
    (A second demo account is also available: `marcus@demo.com` / `demo123`)
 
-## Screenshots
-
-> _Add screenshots of the Login screen, Dashboard, Properties page, and Booking modal here. Example format below:_
-
-| Login Screen | Dashboard |
-|---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
-
-| Properties Listing | Booking Modal |
-|---|---|
-| ![Properties](screenshots/properties.png) | ![Booking](screenshots/booking.png) |
-
 ## Members / Contributors
-
-> _Add team members' names and roles here, e.g.:_
-
-- [Your Name] — Role (e.g. Frontend Developer)
-- [Member 2] — Role
-- [Member 3] — Role
+- Efren Johannes Bucao
+- John Christopher Remandaban
+- Christian Palanca
 
 ## Academic Year
 
-> _e.g. 2025–2026_
+> 2025 - 2026
 
 ## Subject
 
-> _e.g. Web Development / Application Development_
+> SYSTEM INTEGRATION ARCHITECTURE
 
 ## Tech Stack
 
