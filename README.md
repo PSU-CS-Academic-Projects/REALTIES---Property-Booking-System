@@ -56,6 +56,7 @@ This is a static front-end project — no build tools, frameworks, or dependenci
 - Efren Johannes Bucao
 - John Christopher Remandaban
 - Christian Palanca
+- Timothy Ethan Alli
 
 ## Academic Year
 
